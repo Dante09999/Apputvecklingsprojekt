@@ -14,3 +14,5 @@ Målgrupp: Fordonsägare och folk som pendlar till jobb/skola
 Problem: Ryssarna kan inte prata engelska allmänt vilket skapar problem när man spelar spel med de. T.ex cs2 eller dota2 valorant osv.
 
 Lösning: Ai live translation overlay. 
+
+Målgrupp: Gamers
