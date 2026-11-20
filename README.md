@@ -1,3 +1,6 @@
+<body>
+  background-color: lightblue;
+</body>
 # Apputvecklingsprojekt
 Apputvecklingsprojek i Teknik 1
 
