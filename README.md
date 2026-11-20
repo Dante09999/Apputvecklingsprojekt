@@ -17,24 +17,7 @@ Lösning: Skapa app med data om hur många som kör och när samt uppskattar tid
 
 Målgrupp: Fordonsägare och folk som pendlar till jobb/skola
 
-# Alternativt om det går dåligt 🎮🤖🧠
-
-Problem: Ryssarna kan inte prata engelska allmänt vilket skapar problem när man spelar spel med de. T.ex cs2 eller dota2 valorant osv.
-
-Lösning: Ai live translation overlay. 
-
-Målgrupp: Gamers
-
 Alternativt
-
-Område: Hälsa och vardagssäkerhet
-
-Problem: Personer med matallergier, intoleranser eller specialkost måste stå och läsa långa, finstilta ingredienslistor på varje vara i mataffären. Det tar lång tid, ingredienser kan gömma sig bakom svåra namn och ett litet misstag kan leda till en allvarlig allergisk reaktion.
-
-Lösning: En app där användaren ställer in sina allergier och kostpreferenser en enda gång i sin profil. I butiken skannar man bara streckkoden på en förpackning med mobilkameran. Appen läser av innehållet på en sekund och visar med en tydlig färgskärm om varan är grön (säker att äta) eller röd (varning – innehåller något du inte tål). Om varan blir röd föreslår appen direkt ett liknande, säkert alternativ som går att köpa istället, och sparar dina godkända varor i en egen favoritlista.
-
-Målgrupp: Barn, unga och vuxna med matallergier eller intoleranser, föräldrar till allergiska barn samt personer som ska handla eller laga mat åt vänner med specialkost.
-
 
 Problemet. Bedragare drog in 5,7 miljarder kronor i Sverige under 2025, och pensionärer hamnar allt oftare i statistiken som bedrägerioffer. Det nya är AI: knackig svenska fungerar inte längre som varningssignal, och röstkloning dyker redan upp i svenska polisärenden. Samtidigt ser polisen lägre totala brottsvinster två år i rad, så problemet växer inte överallt, men det byter form. 
 Sök Mina sidor
