@@ -1,6 +1,14 @@
 # Apputvecklingsprojekt
 Apputvecklingsprojek i Teknik 1
 
+# P-väljaren
+
+Område: 	Parkering och digital tillgänglighet
+
+Problem: 	En person berättar att föräldrarna drar sig för att parkera eftersom de är rädda att välja fel bland alla appar, konton och betalsteg. Svensk diskussion om parkeringsappar
+
+Hur ska appen fungera? Skriv in områdeskoden från skylten. Appen visar vilka betalvägar som faktiskt finns på platsen, exempelvis Automat, SMS och Webb, med en instruktion för varje alternativ och eventuell serviceavgift. Börja med en enda parkeringsoperatör.
+
 # Vad heter delen?
 Område	Reparation och återbruk
 
