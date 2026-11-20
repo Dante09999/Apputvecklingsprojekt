@@ -34,3 +34,18 @@ Problem: Personer med matallergier, intoleranser eller specialkost måste stå o
 Lösning: En app där användaren ställer in sina allergier och kostpreferenser en enda gång i sin profil. I butiken skannar man bara streckkoden på en förpackning med mobilkameran. Appen läser av innehållet på en sekund och visar med en tydlig färgskärm om varan är grön (säker att äta) eller röd (varning – innehåller något du inte tål). Om varan blir röd föreslår appen direkt ett liknande, säkert alternativ som går att köpa istället, och sparar dina godkända varor i en egen favoritlista.
 
 Målgrupp: Barn, unga och vuxna med matallergier eller intoleranser, föräldrar till allergiska barn samt personer som ska handla eller laga mat åt vänner med specialkost.
+
+
+Problemet. Bedragare drog in 5,7 miljarder kronor i Sverige under 2025, och pensionärer hamnar allt oftare i statistiken som bedrägerioffer. Det nya är AI: knackig svenska fungerar inte längre som varningssignal, och röstkloning dyker redan upp i svenska polisärenden. Samtidigt ser polisen lägre totala brottsvinster två år i rad, så problemet växer inte överallt, men det byter form. 
+Sök Mina sidor
+ +4
+
+Varför en app löser det. Att känna igen en bluff är en färdighet, och färdigheter byggs av övning med direkt återkoppling, inte av att läsa råd. De quiz jag känner till är mest engångstester på en webbsida, så gör en snabb konkurrentkoll innan ni bestämmer er.
+
+Så funkar den:
+
+Du får ett realistiskt SMS, mejl eller samtalsmanus (“Hej mamma, jag har ny telefon”, en PostNord-avi, en BankID-förfrågan) och sveper äkta eller bluff.
+Direkt efteråt markeras varningssignalerna i meddelandet.
+Appen håller koll på vilka blufftyper du missar och ger dig fler av dem.
+
+Omfattning. En första version är runt 40 handskrivna exempel med svep, förklaring och poäng. Hinner ni mer kan ni lägga till en nivå med äkta mot syntetiska röstklipp och ett familjeläge där man skickar en utmaning till mormor.
