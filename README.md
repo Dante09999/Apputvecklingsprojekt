@@ -27,6 +27,7 @@ Målgrupp: Fordonsägare och folk som pendlar till jobb/skola
 
 Alternativt
 
+<h1>Bedrägeri-igenkänning-träning-app</h1>
 Problemet. Bedragare drog in 5,7 miljarder kronor i Sverige under 2025, och pensionärer hamnar allt oftare i statistiken som bedrägerioffer. Det nya är AI: knackig svenska fungerar inte längre som varningssignal, och röstkloning dyker redan upp i svenska polisärenden. Samtidigt ser polisen lägre totala brottsvinster två år i rad, så problemet växer inte överallt, men det byter form. 
 Sök Mina sidor
  +4
