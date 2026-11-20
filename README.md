@@ -14,6 +14,8 @@ Res-norm-appen hjälper resenärer att snabbt läsa på inför vanliga situation
 Varje tips börjar med ett kort svar och följs av en förklaring. Appen visar när en vana kan variera mellan familjer eller regioner. Information om lokala regler och lagar finns under Regler och lagar, där varje artikel länkar till en officiell källa och visar när informationen kontrollerades.
 
 ### Målgrupp
+
 Appen riktar sig till personer som reser utomlands och vill känna sig tryggare i vardagliga möten, särskilt de som besöker ett land för första gången. En resenär kan använda appen hemma inför resan eller i mobilen precis innan ett restaurangbesök eller en middag. Därför har appen korta texter, tydliga kategorier och en knapp för att spara tips så att de går att läsa utan internet.
 
 ### UI/UX Design
+<img width="1536" height="1024" alt="UI" src="https://github.com/user-attachments/assets/5da7ba26-ae42-40e4-a756-c8554c55aab1" />
