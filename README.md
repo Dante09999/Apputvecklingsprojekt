@@ -1,6 +1,14 @@
 # Apputvecklingsprojekt
 Apputvecklingsprojek i Teknik 1
 
+# Vad heter delen?
+Område	Reparation och återbruk
+
+Problem: En plastbit i diskmaskinen går av. Du vet precis var den satt, men har ingen aning om vad du ska söka efter. 
+
+Hur ska appen fungera?
+Fota modellskylten och tryck på platsen där biten satt i en bild av maskinen. Appen visar möjliga delar med bild och artikelnummer. En första version kan fokusera på diskmaskinskorgar, där clips och hjul är lätta att förväxla.
+
 # Problem och Lösning 🚙🚌⏲️
 
 Problem: Långa bilköer i traffiken orsakar att man blir sen till jobb/skola
