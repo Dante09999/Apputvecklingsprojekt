@@ -1,6 +1,6 @@
 # Apputvecklingsprojekt
 Apputvecklingsprojek i Teknik 1
-
+![Rainbow Text](./rainbow.svg)
 # Res-norm-app
 ### Område: 
 Resor och kultur.
