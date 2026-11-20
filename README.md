@@ -42,6 +42,8 @@ Sök Mina sidor
 
 Varför en app löser det. Att känna igen en bluff är en färdighet, och färdigheter byggs av övning med direkt återkoppling, inte av att läsa råd. De quiz jag känner till är mest engångstester på en webbsida, så gör en snabb konkurrentkoll innan ni bestämmer er.
 
+ALTERNATIVT
+
 Så funkar den:
 
 Du får ett realistiskt SMS, mejl eller samtalsmanus (“Hej mamma, jag har ny telefon”, en PostNord-avi, en BankID-förfrågan) och sveper äkta eller bluff.
