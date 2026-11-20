@@ -7,7 +7,7 @@ Område	Reparation och återbruk
 Problem: En plastbit i diskmaskinen går av. Du vet precis var den satt, men har ingen aning om vad du ska söka efter. 
 
 Hur ska appen fungera?
-Fota modellskylten och tryck på platsen där biten satt i en bild av maskinen. Appen visar möjliga delar med bild och artikelnummer. En första version kan fokusera på diskmaskinskorgar, där clips och hjul är lätta att förväxla.
+Fota modellskylten och delen sedan tryck på platsen där biten satt i en bild av maskinen. Appen visar möjliga delar med bild och artikelnummer. En första version kan fokusera på diskmaskinskorgar, där clips och hjul är lätta att förväxla.
 
 # Problem och Lösning 🚙🚌⏲️
 
