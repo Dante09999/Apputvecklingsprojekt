@@ -15,3 +15,5 @@ Varje tips börjar med ett kort svar och följs av en förklaring. Appen visar n
 
 ### Målgrupp
 Appen riktar sig till personer som reser utomlands och vill känna sig tryggare i vardagliga möten, särskilt de som besöker ett land för första gången. En resenär kan använda appen hemma inför resan eller i mobilen precis innan ett restaurangbesök eller en middag. Därför har appen korta texter, tydliga kategorier och en knapp för att spara tips så att de går att läsa utan internet.
+
+### UI/UX Design
