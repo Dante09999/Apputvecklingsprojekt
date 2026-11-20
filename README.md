@@ -1,21 +1,3 @@
-<style>
-@keyframes color-cycle {
-  0%   { color: #ff0000; }
-  20%  { color: #ff8800; }
-  40%  { color: #cccc00; }
-  60%  { color: #00aa00; }
-  80%  { color: #0066ff; }
-  100% { color: #ff0000; }
-}
-
-.changing-text {
-  font-weight: bold;
-  animation: color-cycle 4s linear infinite;
-}
-</style>
-
-<span class="changing-text">This text actively changes color!</span>
-
 # Apputvecklingsprojekt
 Apputvecklingsprojek i Teknik 1
 
