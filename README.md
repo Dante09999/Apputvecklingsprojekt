@@ -17,16 +17,6 @@ Problem: En plastbit i diskmaskinen går av. Du vet precis var den satt, men har
 Hur ska appen fungera?
 Fota modellskylten och delen sedan tryck på platsen där biten satt i en bild av maskinen. Appen visar möjliga delar med bild och artikelnummer. En första version kan fokusera på diskmaskinskorgar, där clips och hjul är lätta att förväxla.
 
-# Problem och Lösning 🚙🚌⏲️
-
-Problem: Långa bilköer i traffiken orsakar att man blir sen till jobb/skola
-
-Lösning: Skapa app med data om hur många som kör och när samt uppskattar tiden det kommer ta att köra dit vid specifika tider genom att appen loggar hur många som kör vid specifika tidpunkter. Det handlar ej om att hitta den snabbaste vägen utan den bästa tiden på dygnet att köra sin rutt för att undvika mycket traffik. Appen kan ge rekomendationer om när man ska köra så man senare kan planera in sin körning. Appen minns din planering och ger live uppdateringar om det skulle bli mer traffik än fövantat vid tidpunkten. Kan finnas nödnotiser ifall extrem kö finns. 
-
-Målgrupp: Fordonsägare och folk som pendlar till jobb/skola
-
-Alternativt
-
 <h1>Bedrägeri-igenkänning-träning-app</h1>
 Problemet. Bedragare drog in 5,7 miljarder kronor i Sverige under 2025, och pensionärer hamnar allt oftare i statistiken som bedrägerioffer. Det nya är AI: knackig svenska fungerar inte längre som varningssignal, och röstkloning dyker redan upp i svenska polisärenden. Samtidigt ser polisen lägre totala brottsvinster två år i rad, så problemet växer inte överallt, men det byter form. 
 Sök Mina sidor
