@@ -20,7 +20,6 @@ Fota modellskylten och delen sedan tryck på platsen där biten satt i en bild a
 <h1>Bedrägeri-igenkänning-träning-app</h1>
 Problemet. Bedragare drog in 5,7 miljarder kronor i Sverige under 2025, och pensionärer hamnar allt oftare i statistiken som bedrägerioffer. Det nya är AI: knackig svenska fungerar inte längre som varningssignal, och röstkloning dyker redan upp i svenska polisärenden. Samtidigt ser polisen lägre totala brottsvinster två år i rad, så problemet växer inte överallt, men det byter form.
 
-
 Varför en app löser det. Att känna igen en bluff är en färdighet, och färdigheter byggs av övning med direkt återkoppling, inte av att läsa råd. De quiz jag känner till är mest engångstester på en webbsida, så gör en snabb konkurrentkoll innan ni bestämmer er.
 
 Så funkar den:
