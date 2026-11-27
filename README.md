@@ -18,3 +18,6 @@ Appen riktar sig till personer som reser utomlands och vill känna sig tryggare 
 
 ### UI/UX Design
 <img width="1536" height="1024" alt="UI" src="https://github.com/user-attachments/assets/5da7ba26-ae42-40e4-a756-c8554c55aab1" />
+
+### Flödesschema
+<img width="1536" height="1024" alt="UI" src="res-norm-flodesschema.svg" />
