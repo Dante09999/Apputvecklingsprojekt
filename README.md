@@ -20,11 +20,11 @@ Varje tips börjar med ett kort svar och följs av en förklaring. Appen visar n
 Appen riktar sig till personer som reser utomlands och vill känna sig tryggare i vardagliga möten, särskilt de som besöker ett land för första gången. En resenär kan använda appen hemma inför resan eller i mobilen precis innan ett restaurangbesök eller en middag. Därför har appen korta texter, tydliga kategorier och en knapp för att spara tips så att de går att läsa utan internet.
 
 ### UI/UX Design
-<img width="1536" height="1024" alt="UI" src="https://github.com/user-attachments/assets/5da7ba26-ae42-40e4-a756-c8554c55aab1" />
-
-### Flödesschema
-<img width="1536" height="1024" alt="UI" src="res-norm-flodesschema.svg" />
 <img width="201" height="421" alt="Screenshot_20261127_122336" src="https://github.com/user-attachments/assets/6c75815b-61d9-4d36-8e82-290b2f7fd63e" />
 <img width="439" height="425" alt="Screenshot_20261127_122325" src="https://github.com/user-attachments/assets/e58589df-0c57-442d-9209-6f8c468e00f7" />
 <img width="484" height="437" alt="Screenshot_20261127_122314" src="https://github.com/user-attachments/assets/eb1fa4a8-da00-48bb-b2e2-4212806c8915" />
 <img width="484" height="437" alt="Screenshot_20261127_122220" src="https://github.com/user-attachments/assets/1677a7e2-c3e7-4cae-953a-a6ad0cff0824" />
+
+### Flödesschema
+<img width="1536" height="1024" alt="UI" src="res-norm-flodesschema.svg" />
+
