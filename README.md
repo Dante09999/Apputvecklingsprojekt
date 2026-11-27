@@ -18,3 +18,9 @@ Appen riktar sig till personer som reser utomlands och vill känna sig tryggare 
 
 ### UI/UX Design
 <img width="1536" height="1024" alt="UI" src="https://github.com/user-attachments/assets/5da7ba26-ae42-40e4-a756-c8554c55aab1" />
+
+<img width="201" height="421" alt="Screenshot_20261127_122336" src="https://github.com/user-attachments/assets/2a98bed6-d01c-4800-a099-1eb68ab44aff" />
+<img width="439" height="425" alt="Screenshot_20261127_122325" src="https://github.com/user-attachments/assets/9511c998-e300-43a8-ae4a-7536d3db6ca5" />
+<img width="484" height="437" alt="Screenshot_20261127_122314" src="https://github.com/user-attachments/assets/dc790128-d081-45e7-9a51-95956e33a4b9" />
+<img width="484" height="437" alt="Screenshot_20261127_122220" src="https://github.com/user-attachments/assets/5336dd5f-47fc-49bc-96a1-fa502ce6c9ef" />
+
