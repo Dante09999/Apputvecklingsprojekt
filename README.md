@@ -26,5 +26,5 @@ Appen riktar sig till personer som reser utomlands och vill känna sig tryggare 
 <img width="484" height="437" alt="Screenshot_20261127_122220" src="https://github.com/user-attachments/assets/1677a7e2-c3e7-4cae-953a-a6ad0cff0824" />
 
 ### Flödesschema
-<img width="1536" height="1024" alt="UI" src="res-norm-flodesschema.svg" />
+<img width="1536" height="1024" alt="Flowchart" src="res-norm-flodesschema.svg" />
 
